@@ -14,7 +14,7 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 
 ## Featured Projects, Code Examples & Utilities
 
-### [Coding Toolkit for PHP, Laravel & Mysql](https://github.com/bump909/coding-toolkit)
+### [Coding Toolkit for PHP, Laravel & MySQL](https://github.com/bump909/coding-toolkit)
 
 A carefully crafted collection of Laravel and PHP tools to speed up your development workflows, demonstrate best practices, and build smarter applications.
 This toolkit includes custom macros, artisan commands, helpers, casts, policies, and unit tests, all designed to be plug-and-play into any Laravel project.
