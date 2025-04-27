@@ -7,7 +7,7 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 ## Tech Stack
 
 - **Backend:** PHP, Laravel, MySQL, REST APIs
-- **Frontend:** React, Vue, Tailwind CSS, Inertia.js
+- **Frontend:** Javascript, React, react Native, Vue, Tailwind CSS, Livewire, Alpine
 - **Mobile:** React Native
 - **Principles:** SOLID, OOP, DRY
 - **Tools:** Git, Composer, NPM/Yarn/Pnpm, Postman, 
@@ -18,6 +18,7 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 
 A carefully crafted collection of Laravel and PHP tools to speed up your development workflows, demonstrate best practices, and build smarter applications.
 This toolkit includes custom macros, artisan commands, helpers, casts, policies, and unit tests, all designed to be plug-and-play into any Laravel project.
+Additionally, it features a **frontend section** using modern technologies like **Tailwind CSS**, **React**, **Vue**, **Alpine.js**, and **Livewire**. These components can be used to quickly build, prototype, and showcase frontend elements for your applications.
 
 ### [Laravel Solid Principles](https://github.com/bump909/laravel-solid-principles)
 
