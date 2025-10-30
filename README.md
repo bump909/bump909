@@ -14,7 +14,7 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 
 ## Featured Projects, Code Examples & Utilities
 
-### [Nasa Near Earth Object Analysis](git@github.com:bump909/neo.git)
+### [Nasa Near Earth Object Analysis](https://github.com:bump909/neo)
 
 A comprehensive Laravel application that extends NASA's Near-Earth Objects API to provide enhanced analytical capabilities for university students studying asteroid close approach data.
 Built with Laravel 12, MySQL, and Laravel Sanctum for API authentication.
