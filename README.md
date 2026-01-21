@@ -6,13 +6,17 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 
 ## Tech Stack
 
-- **Backend:** PHP, Laravel, MySQL, REST APIs
-- **Frontend:** Javascript, React, react Native, Vue, Tailwind CSS, Livewire, Alpine
-- **Mobile:** React Native
+- **Backend:** PHP, Laravel, Filament Php, MySQL, REST APIs
+- **Frontend:** Javascript, React, React Native, Vue.Js, Tailwind CSS, Livewire, Alpine Js
+- **Mobile:** React Native, Redux
 - **Principles:** SOLID, OOP, DRY
-- **Tools:** Git, Composer, NPM/Yarn/Pnpm, Postman, 
+- **Tools:** Git, Composer, NPM/Yarn/Pnpm, Postman, Php Unit, Jest, Cypress
 
 ## Featured Projects, Code Examples & Utilities
+
+### [Sonic Tonic](https://sonic-tonic.com)
+
+e-commerce site promoting e-books and companion strategy card decks for Audio Production, Mixing Techniques and Mastering Fundamentals.
 
 ### [Nasa Near Earth Object Analysis](https://github.com/bump909/neo)
 
