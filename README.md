@@ -14,9 +14,9 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 
 ## Featured Projects, Code Examples & Utilities
 
-### [Sonic Tonic](https://sonic-tonic.com)
+### [Bump Studios](https://www.bumpstudios.co.uk)
 
-e-commerce site promoting e-books and companion strategy card decks for Audio Production, Mixing Techniques and Mastering Fundamentals.
+eCommerce site promoting CD Duplication, Audio Mastering and Format conversion services.
 
 ### [Nasa Near Earth Object Analysis](https://github.com/bump909/neo)
 
