@@ -14,6 +14,10 @@ Outside of coding, you’ll find me hiking, mountain biking, or producing electr
 
 ## Featured Projects, Code Examples & Utilities
 
+### [Sonic Tonic](https://sonic-tonic.com)
+
+eCommerce site promoting eBooks and strategy cards.
+
 ### [Bump Studios](https://www.bumpstudios.co.uk)
 
 eCommerce site promoting CD Duplication, Audio Mastering and Format conversion services.
